@@ -6,11 +6,9 @@
     display: flex;
     height:40px;
     color: rgb(12, 2, 18);
-    justify-content:space-between
-    
+    justify-content:space-between;
+    padding-top: 6px;
 }
-
-
 .col{
     
     height: 200px;
@@ -21,16 +19,33 @@
 }
 .nav-section{
     background-color: #5aa7e6;
-    height: 80px;
+    height: 110px;
+    justify-content: space-between
+
+}
+.nav-bar{
+    display: flex;
+    padding-top: 30px;;
+    justify-content:space-evenly;
+    
 }
 .academic{
     background-color: #217996;
     height: 500px;
 }
-.header{
-    display: flex;
-    
+.white{
+    display: flex; 
+    justify-content:space-between;   
+    text-align: center;
 }
-.container1{
+.w2{
+    padding-top: 30px;
+}
+.ncol{
+    text-align:center;
+}
 
-}
+
+
+
+
