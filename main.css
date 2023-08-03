@@ -1,0 +1,36 @@
+.container{
+    width: 80%;
+    margin: auto;
+}
+.row{
+    display: flex;
+    height:40px;
+    color: rgb(12, 2, 18);
+    justify-content:space-between
+    
+}
+
+
+.col{
+    
+    height: 200px;
+}
+.header-top{
+    background-color: #169FCC;
+    height: 30px;
+}
+.nav-section{
+    background-color: #5aa7e6;
+    height: 80px;
+}
+.academic{
+    background-color: #217996;
+    height: 500px;
+}
+.header{
+    display: flex;
+    
+}
+.container1{
+
+}
