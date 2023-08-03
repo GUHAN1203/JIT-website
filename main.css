@@ -19,23 +19,16 @@
     height: 30px;
 }
 .nav-section{
+    flex-wrap: wrap;
     background-color: #438cc7;
     height: 110px;
-    justify-content: space-between
-    
-    
-
+    justify-content:space-around;
 }
 .nav-bar{
     display: flex;
     padding-top: 30px;;
-    justify-content:space-evenly;
+    justify-content:space-around;
     flex-wrap: wrap;
-    
-}
-.academic{
-    background-color: #217996;
-    height: 500px;
 }
 .white{
     display: flex; 
@@ -47,6 +40,16 @@
 }
 .ncol{
     text-align:center;
+}
+.asection{
+    display: flex;
+    justify-content: space-between;
+    background-color: aquamarine;
+    height: 400px;
+    width: 100%;
+    text-align: center;
+    flex-wrap: wrap;
+    
 }
 
 
