@@ -8,6 +8,7 @@
     color: rgb(12, 2, 18);
     justify-content:space-between;
     padding-top: 6px;
+    
 }
 .col{
     
@@ -18,15 +19,18 @@
     height: 30px;
 }
 .nav-section{
-    background-color: #5aa7e6;
+    background-color: #438cc7;
     height: 110px;
     justify-content: space-between
+    
+    
 
 }
 .nav-bar{
     display: flex;
     padding-top: 30px;;
     justify-content:space-evenly;
+    flex-wrap: wrap;
     
 }
 .academic{
